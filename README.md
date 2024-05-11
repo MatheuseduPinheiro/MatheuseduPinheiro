@@ -1,4 +1,4 @@
-### Seja bem-vindo ao meu perfil do GitHub! Me chamo Matheus Pinheiro e atualmente estou dedicando meu trabalho à realização de pesquisas na área de redes DTN (Delay Tolerant Networks)
+### Seja bem-vindo ao meu perfil do GitHub! Me chamo Matheus Pinheiro e atualmente estou dedicando meu trabalho à realização de pesquisas na área de Redes.
 
  <div>
    <a href="https://github.com/MatheuseduPinheiro">
@@ -18,7 +18,3 @@
    
 </div>
   
-
-![Snake animation](https://github.com/MatheuseduPinheiro/MatheuseduPinheiro/blob/output/github-contribution-grid-snake.svg)
-
-
