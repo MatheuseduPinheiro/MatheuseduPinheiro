@@ -1,4 +1,4 @@
-### Seja bem-vindo ao meu perfil do GitHub! Me chamo Matheus Pinheiro e atualmente estou dedicando meu trabalho à realização de pesquisas na área de Redes.
+### Seja bem-vindo ao meu perfil do GitHub! Me chamo Matheus Pinheiro e atualmente estou dedicando meu trabalho à realização de pesquisas na área de Inteligência Computacional e Ciência de Dados
 
  <div>
    <a href="https://github.com/MatheuseduPinheiro">
